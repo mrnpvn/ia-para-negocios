@@ -82,6 +82,10 @@ Guía de herramientas y plantillas en español para montar, automatizar y vender
 **Webs y comparativas**
 - [Plantilla web vs WordPress en 2026: cuál es mejor para tu negocio](posts/plantilla-web-vs-wordpress.md)
 
+**Recursos open-source en GitHub**
+- [astro-web-templates](https://github.com/mrnpvn/astro-web-templates) — plantillas web gratuitas Astro + Tailwind
+- [n8n-automation-workflows](https://github.com/mrnpvn/n8n-automation-workflows) — workflows N8N gratuitos para automatizar tu negocio
+
 **24 artículos · 17 productos · más cada semana**
 
 ---
