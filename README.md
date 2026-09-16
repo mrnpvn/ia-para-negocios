@@ -46,16 +46,30 @@ Guía de herramientas y plantillas en español para montar, automatizar y vender
 **IA y ventas**
 - [Cómo conseguir clientes siendo freelancer en 2026: 7 prompts](posts/freelancer-conseguir-clientes-con-ia.md)
 - [Guía para vender tus habilidades con IA: de cero a primer ingreso](posts/guia-vender-habilidades-con-ia.md)
+- [Guía Vende con IA: el método completo en 5 pasos](posts/guia-vende-con-ia-metodo.md)
 - [Qué es un kit de automatización con IA y cómo tener tu negocio funcionando en 1 día](posts/kit-automatizacion-ia-negocio.md)
+- [Creadores de contenido: 1 idea → post, guion y email con IA](posts/content-creators-ideas-con-ia.md)
+- [50 prompts para digital sellers: crea y vende 10x más rápido](posts/digital-sellers-productos-mas-rapido.md)
 
 **Automatización**
 - [Automatizar redes sociales con n8n en 2026: flujo completo sin pagar 300€/mes](posts/automatizar-redes-sociales-n8n.md)
+- [AI Automation Playbook: los 10 flujos que hacen un negocio autónomo](posts/ai-automation-playbook-flujos.md)
 
 **Ecommerce y datos**
 - [Etsy SEO en 2026 sin agencia: posiciona con 10 prompts IA](posts/etsy-seo-con-prompts-ia.md)
 - [Datos históricos de Polymarket para backtesting: qué mirar](posts/polymarket-datos-backtesting.md)
 
-**11 artículos · 17 productos · más cada semana**
+**Webs y SEO**
+- [Plantillas web Astro + Tailwind: por qué cargan mejor que las drag & drop](posts/astros-tailwind-web-rapida-seo.md)
+
+**Redes sociales**
+- [LinkedIn en 2026: crece tu marca con 10 prompts](posts/linkedin-crecimiento-con-prompts.md)
+
+**Sectores**
+- [Web para consultorías que convierte visitas en reuniones](posts/web-consultoria-que-convierte.md)
+- [Prompts para abogados: redacción repetitiva sin perder calidad](posts/prompts-para-abogados.md)
+
+**19 artículos · 17 productos · más cada semana**
 
 ---
 
