@@ -36,9 +36,26 @@ Guía de herramientas y plantillas en español para montar, automatizar y vender
 
 ## Artículos
 
+**Plantillas web**
 - [Errores al automatizar tu despacho de abogados (y cómo evitarlos)](posts/automatizar-despacho-abogados.md)
 - [Webs de clínica dental que venden: lo que casi nadie hace bien](posts/web-clinica-dental-que-vende.md)
 - [La web que toda consultoría de negocio necesita (y por qué la tuya no)](posts/web-consultoria-que-vende.md)
+- [La web de una clínica dental que llena la agenda: secciones que convierten](posts/web-clinica-dental-que-llena-agenda.md)
+- [Cuánto cuesta la web de un abogado en 2026: precios reales](posts/cuanto-cuesta-web-abogado.md)
+
+**IA y ventas**
+- [Cómo conseguir clientes siendo freelancer en 2026: 7 prompts](posts/freelancer-conseguir-clientes-con-ia.md)
+- [Guía para vender tus habilidades con IA: de cero a primer ingreso](posts/guia-vender-habilidades-con-ia.md)
+- [Qué es un kit de automatización con IA y cómo tener tu negocio funcionando en 1 día](posts/kit-automatizacion-ia-negocio.md)
+
+**Automatización**
+- [Automatizar redes sociales con n8n en 2026: flujo completo sin pagar 300€/mes](posts/automatizar-redes-sociales-n8n.md)
+
+**Ecommerce y datos**
+- [Etsy SEO en 2026 sin agencia: posiciona con 10 prompts IA](posts/etsy-seo-con-prompts-ia.md)
+- [Datos históricos de Polymarket para backtesting: qué mirar](posts/polymarket-datos-backtesting.md)
+
+**11 artículos · 17 productos · más cada semana**
 
 ---
 
