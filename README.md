@@ -69,7 +69,20 @@ Guía de herramientas y plantillas en español para montar, automatizar y vender
 - [Web para consultorías que convierte visitas en reuniones](posts/web-consultoria-que-convierte.md)
 - [Prompts para abogados: redacción repetitiva sin perder calidad](posts/prompts-para-abogados.md)
 
-**19 artículos · 17 productos · más cada semana**
+**Gumroad y ventas**
+- [Cómo vender tu primer producto digital en Gumroad: la guía completa](posts/vender-producto-digital-gumroad.md)
+- [Pack de prompts: qué son, por qué ahorran tiempo y cuál elegir](posts/pack-prompts-que-son-cual-elegir.md)
+
+**Automatización y tools**
+- [N8N para principiantes: automatiza tu primer flujo en 30 minutos](posts/n8n-principiantes-30-minutos.md)
+
+**Redes sociales y clientes**
+- [Conseguir clientes por LinkedIn con IA: la estrategia que funciona](posts/conseguir-clientes-linkedin-ia.md)
+
+**Webs y comparativas**
+- [Plantilla web vs WordPress en 2026: cuál es mejor para tu negocio](posts/plantilla-web-vs-wordpress.md)
+
+**24 artículos · 17 productos · más cada semana**
 
 ---
 

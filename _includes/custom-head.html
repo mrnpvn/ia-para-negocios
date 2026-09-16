@@ -1,0 +1,23 @@
+{% if page.layout == 'post' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ page.title | escape }}",
+  "description": "{{ page.excerpt | default: page.description | strip_html | strip_newlines | escape }}",
+  "author": {
+    "@type": "Person",
+    "name": "MRNPVN",
+    "url": "https://mrnpvn.gumroad.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "MRNPVN",
+    "url": "https://mrnpvn.gumroad.com"
+  },
+  "url": "{{ page.url | prepend: site.url }}",
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.date | date_to_xmlschema }}"
+}
+</script>
+{% endif %}
