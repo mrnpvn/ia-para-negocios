@@ -1,3 +1,8 @@
+---
+title: "Cómo pedir la documentación a un cliente sin perseguirlo cinco veces"
+description: "Sistema de cuatro piezas para recoger documentación de clientes sin perseguirlos: checklist por servicio, estado por documento, recordatorios escalonados e informe semanal. Con dato medido del catálogo n8n y el flujo de 51 nodos que lo implementa."
+---
+
 # Cómo pedir la documentación a un cliente sin perseguirlo cinco veces
 
 Un cliente nuevo, siete documentos, tres canales (WhatsApp, teléfono y correo) y un Excel que nadie actualiza. Ese es el proceso real de la mayoría de asesorías, gestorías y despachos, y explica por qué un alta que debería cerrarse en una semana se va a un mes.
