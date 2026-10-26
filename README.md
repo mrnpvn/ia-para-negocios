@@ -52,6 +52,7 @@ Guía de herramientas y plantillas en español para montar, automatizar y vender
 - [50 prompts para digital sellers: crea y vende 10x más rápido](posts/digital-sellers-productos-mas-rapido.html)
 
 **Automatización**
+- [Cómo no perder un plazo fiscal de un cliente (sin libreta ni Excel)](posts/plazos-fiscales-sin-perder-un-cliente.html)
 - [Cómo pedir la documentación a un cliente sin perseguirlo cinco veces](posts/documentos-de-clientes-sin-perseguir.html)
 - [Automatizar redes sociales con n8n en 2026: flujo completo sin pagar 300€/mes](posts/automatizar-redes-sociales-n8n.html)
 - [AI Automation Playbook: los 10 flujos que hacen un negocio autónomo](posts/ai-automation-playbook-flujos.html)
@@ -87,7 +88,7 @@ Guía de herramientas y plantillas en español para montar, automatizar y vender
 - [astro-web-templates](https://github.com/mrnpvn/astro-web-templates) — plantillas web gratuitas Astro + Tailwind
 - [n8n-automation-workflows](https://github.com/mrnpvn/n8n-automation-workflows) — workflows N8N gratuitos para automatizar tu negocio
 
-**25 artículos · 17 productos · más cada semana**
+**26 artículos · 17 productos · más cada semana**
 
 ---
 
