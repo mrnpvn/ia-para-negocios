@@ -1,4 +1,4 @@
-https://mrnpvn.github.io/ia-para-negocios/
+﻿https://mrnpvn.github.io/ia-para-negocios/
 https://mrnpvn.github.io/ia-para-negocios/posts/automatizar-despacho-abogados.html
 https://mrnpvn.github.io/ia-para-negocios/posts/web-clinica-dental-que-vende.html
 https://mrnpvn.github.io/ia-para-negocios/posts/web-consultoria-que-vende.html
@@ -25,3 +25,4 @@ https://mrnpvn.github.io/ia-para-negocios/posts/pack-prompts-que-son-cual-elegir
 https://mrnpvn.github.io/ia-para-negocios/posts/plantilla-web-vs-wordpress.html
 https://mrnpvn.github.io/ia-para-negocios/posts/documentos-de-clientes-sin-perseguir.html
 https://mrnpvn.github.io/ia-para-negocios/posts/plazos-fiscales-sin-perder-un-cliente.html
+https://mrnpvn.github.io/ia-para-negocios/posts/cinco-numeros-despacho-lunes.html
