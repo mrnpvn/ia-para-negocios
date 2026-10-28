@@ -52,6 +52,7 @@ Guía de herramientas y plantillas en español para montar, automatizar y vender
 - [50 prompts para digital sellers: crea y vende 10x más rápido](posts/digital-sellers-productos-mas-rapido.html)
 
 **Automatización**
+- [Leads inmobiliarios: la respuesta que sirve no es «te llamamos», es la cartera filtrada](posts/leads-inmobiliarios-respuesta-con-cartera.html)
 - [Cambio de IBAN de un proveedor: cómo verificarlo sin fiarte del correo](posts/cambio-iban-proveedor-protocolo.html)
 - [Recordatorios de cita que se confirman solos (y avisan del hueco al cancelar)](posts/recordatorios-cita-hueco-cancelacion.html)
 - [Los cinco números que un despacho debe mirar el lunes (sin abrir cuatro programas)](posts/cinco-numeros-despacho-lunes.html)
