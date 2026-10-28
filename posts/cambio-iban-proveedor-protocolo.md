@@ -88,7 +88,7 @@ El flujo completo —**60 nodos, tres partes, las cabeceras de las tres pestaña
 
 Si quieres el procedimiento escrito para el equipo, la guía **[fraude del cambio de IBAN: los tres controles que no sirven](https://mrnpvn.github.io/flowkit/fraude-proveedores/)** lo desarrolla, y el **[catálogo de flujos gratuitos](https://mrnpvn.github.io/flowkit/)** tiene los demás. Para el resto del despacho, el **[Pack Asesoría](https://mrnpvn.gumroad.com/l/flowkit-pack-asesoria)** añade cobros vencidos, onboarding documental y panel de KPIs; si prefieres empezar por lo pequeño, el **[kit de arranque IA es gratis](https://mrnpvn.gumroad.com/l/kit-de-arranque-ia)**.
 
-Dentro del sitio, dos complementos naturales: **[cómo pedir la documentación a un cliente sin perseguirlo cinco veces](posts/documentos-de-clientes-sin-perseguir.html)** y **[los cinco números que un despacho debe mirar el lunes](posts/cinco-numeros-despacho-lunes.html)**: un cambio de cuenta sin control es el tipo de agujero que no aparece en ningún KPI hasta que ya es una pérdida. Si aún no has montado nada en n8n, empieza por **[tu primer flujo en 30 minutos](posts/n8n-principiantes-30-minutos.html)**.
+Dentro del sitio, dos complementos naturales: **[cómo pedir la documentación a un cliente sin perseguirlo cinco veces](/ia-para-negocios/posts/documentos-de-clientes-sin-perseguir.html)** y **[los cinco números que un despacho debe mirar el lunes](/ia-para-negocios/posts/cinco-numeros-despacho-lunes.html)**: un cambio de cuenta sin control es el tipo de agujero que no aparece en ningún KPI hasta que ya es una pérdida. Si aún no has montado nada en n8n, empieza por **[tu primer flujo en 30 minutos](/ia-para-negocios/posts/n8n-principiantes-30-minutos.html)**.
 
 ## Preguntas frecuentes
 

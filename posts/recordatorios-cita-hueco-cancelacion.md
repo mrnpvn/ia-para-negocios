@@ -85,7 +85,7 @@ El flujo completo —**21 nodos, tres partes, guía con las 11 columnas, pruebas
 
 Si además la web no convierte, la **[plantilla web para clínicas dentales](https://mrnpvn.gumroad.com/l/dental-website-template)** resuelve la otra mitad (secciones, FAQ, cita como llamada a la acción), y el **[pack de prompts para clínicas dentales](https://mrnpvn.gumroad.com/l/ai-prompts-dentales)** cubre los textos que se repiten cada semana. Para empezar por lo pequeño, el **[kit de arranque IA es gratis](https://mrnpvn.gumroad.com/l/kit-de-arranque-ia)**, y en el **[catálogo de flujos gratuitos](https://mrnpvn.github.io/flowkit/)** están los demás.
 
-Si vienes de cero con n8n, empieza por **[tu primer flujo en 30 minutos](posts/n8n-principiantes-30-minutos.html)**; y si lo que falla es la agenda llena de huecos, mira **[qué secciones llenan la agenda de una web dental](posts/web-clinica-dental-que-llena-agenda.html)** y **[por qué la mayoría de webs de clínica no venden](posts/web-clinica-dental-que-vende.html)**.
+Si vienes de cero con n8n, empieza por **[tu primer flujo en 30 minutos](/ia-para-negocios/posts/n8n-principiantes-30-minutos.html)**; y si lo que falla es la agenda llena de huecos, mira **[qué secciones llenan la agenda de una web dental](/ia-para-negocios/posts/web-clinica-dental-que-llena-agenda.html)** y **[por qué la mayoría de webs de clínica no venden](/ia-para-negocios/posts/web-clinica-dental-que-vende.html)**.
 
 ## Preguntas frecuentes
 
