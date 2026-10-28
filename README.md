@@ -52,6 +52,7 @@ Guía de herramientas y plantillas en español para montar, automatizar y vender
 - [50 prompts para digital sellers: crea y vende 10x más rápido](posts/digital-sellers-productos-mas-rapido.html)
 
 **Automatización**
+- [Cambio de IBAN de un proveedor: cómo verificarlo sin fiarte del correo](posts/cambio-iban-proveedor-protocolo.html)
 - [Recordatorios de cita que se confirman solos (y avisan del hueco al cancelar)](posts/recordatorios-cita-hueco-cancelacion.html)
 - [Los cinco números que un despacho debe mirar el lunes (sin abrir cuatro programas)](posts/cinco-numeros-despacho-lunes.html)
 - [Cómo no perder un plazo fiscal de un cliente (sin libreta ni Excel)](posts/plazos-fiscales-sin-perder-un-cliente.html)
@@ -90,7 +91,7 @@ Guía de herramientas y plantillas en español para montar, automatizar y vender
 - [astro-web-templates](https://github.com/mrnpvn/astro-web-templates) — plantillas web gratuitas Astro + Tailwind
 - [n8n-automation-workflows](https://github.com/mrnpvn/n8n-automation-workflows) — workflows N8N gratuitos para automatizar tu negocio
 
-**28 artículos · 17 productos · más cada semana**
+**29 artículos · 17 productos · más cada semana**
 
 ---
 
