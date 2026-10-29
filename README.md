@@ -52,6 +52,7 @@ Guía de herramientas y plantillas en español para montar, automatizar y vender
 - [50 prompts para digital sellers: crea y vende 10x más rápido](posts/digital-sellers-productos-mas-rapido.html)
 
 **Automatización**
+- [Facturas vencidas: el aviso que se cobra es uno por cliente, no uno por factura](posts/facturas-vencidas-aviso-por-cliente.html)
 - [Leads inmobiliarios: la respuesta que sirve no es «te llamamos», es la cartera filtrada](posts/leads-inmobiliarios-respuesta-con-cartera.html)
 - [Cambio de IBAN de un proveedor: cómo verificarlo sin fiarte del correo](posts/cambio-iban-proveedor-protocolo.html)
 - [Recordatorios de cita que se confirman solos (y avisan del hueco al cancelar)](posts/recordatorios-cita-hueco-cancelacion.html)
@@ -92,7 +93,7 @@ Guía de herramientas y plantillas en español para montar, automatizar y vender
 - [astro-web-templates](https://github.com/mrnpvn/astro-web-templates) — plantillas web gratuitas Astro + Tailwind
 - [n8n-automation-workflows](https://github.com/mrnpvn/n8n-automation-workflows) — workflows N8N gratuitos para automatizar tu negocio
 
-**29 artículos · 17 productos · más cada semana**
+**30 artículos · 17 productos · más cada semana**
 
 ---
 
